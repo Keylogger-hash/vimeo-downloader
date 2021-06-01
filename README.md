@@ -6,6 +6,8 @@
    <li>Активируйте среду conda:<code>conda activate</code></li>
    <li><code>pip install -r requirements.txt</code></li>
    <li>Скачайте также chromedriver для Selenium:<a href="https://chromedriver.chromium.org/downloads">chromedriver download</a></li>
-   <li>Запустите:python main.py</li>
+   <li>Запустите:<code>python main.py</code></li>
 </ol>
+<p>Пример работы:</p><br>
+<p><img src="screenshot.png" width="150" height="150"></p>
 <p>Удачного использования!</p>
