@@ -8,6 +8,5 @@
    <li>Скачайте также chromedriver для Selenium:<a href="https://chromedriver.chromium.org/downloads">chromedriver download</a></li>
    <li>Запустите:<code>python main.py</code></li>
 </ol>
-<p>Пример работы:</p><br>
-<p><img src="screenshot.png" width="400" height="400"></p>
+<p>Пример работы cмотрите в screenshot.png</p>
 <p>Удачного использования!</p>
