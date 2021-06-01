@@ -9,5 +9,5 @@
    <li>Запустите:<code>python main.py</code></li>
 </ol>
 <p>Пример работы:</p><br>
-<p><img src="screenshot.png" width="150" height="150"></p>
+<p><img src="screenshot.png" width="400" height="400"></p>
 <p>Удачного использования!</p>
